@@ -1,4 +1,4 @@
-package Basics;
+package topic_01_Basics;
 
 public class print {
     static void main() {

@@ -1,4 +1,4 @@
-package comments_and_variables;
+package topic_02_comments_and_variables;
 
 public class L01 {
     static void main(String[] args) {

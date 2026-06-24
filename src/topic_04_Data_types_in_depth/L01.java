@@ -1,4 +1,4 @@
-package Data_types_in_depth;
+package topic_04_Data_types_in_depth;
 
 public class L01 {
     static void main(String[] args) {

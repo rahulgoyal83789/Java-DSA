@@ -1,4 +1,4 @@
-package coding_coventions_and_rules;
+package topic_03_coding_coventions_and_rules;
 
 public class L01 {
     static void main(String[] args) {
