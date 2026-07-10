@@ -2,13 +2,13 @@ package topic_11_loops;
 
 public class L01 {
     static void main(String[] args) {
-        for (int i = 0; i < 5; i++) {
-            System.out.println("Hello World");
+        // entry control loops
+//        for (counter variable /declaration; consition ; variable increament) {code}
+//        for(;;){} this code is valid
+        int i;
+        for (i = 1; i<=5;i++) {
+            System.out.println("Hello world");
         }
-        int a = 0;
-        while (a<5) {
-            System.out.println("Hello World");
-            a++;
-        }
+        System.out.println(i);
     }
 }

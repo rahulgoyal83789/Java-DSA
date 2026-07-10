@@ -1,0 +1,21 @@
+package topic_11_loops;
+
+import java.util.Scanner;
+
+public class practice_questions {
+    static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter n :- ");
+        int n = sc.nextInt();
+        int sum = 0;
+        for (int i = 1; i <= n; i++) {
+            System.out.print(i+" ");
+            sum += i;
+        }
+        System.out.println();
+        System.out.println(sum);
+        for (int i = n; i >= 1; i--) {
+            System.out.print(i+" ");
+        }
+    }
+}
