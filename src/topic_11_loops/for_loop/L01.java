@@ -1,4 +1,4 @@
-package topic_11_loops;
+package topic_11_loops.for_loop;
 
 public class L01 {
     static void main(String[] args) {
