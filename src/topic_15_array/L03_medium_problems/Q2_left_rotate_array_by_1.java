@@ -23,6 +23,5 @@ public class Q2_left_rotate_array_by_1 {
             else arr2[i]=last;
         }
         System.out.println(Arrays.toString(arr2));
-
     }
 }
