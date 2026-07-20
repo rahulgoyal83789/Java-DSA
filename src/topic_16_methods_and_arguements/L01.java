@@ -5,6 +5,19 @@ public class L01 {
         System.out.println("System check");
     }
     static void main(String[] args) {
-
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        systemCheck();
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        systemCheck();
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        systemCheck();
     }
 }
